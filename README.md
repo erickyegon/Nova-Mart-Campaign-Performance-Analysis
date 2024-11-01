@@ -45,7 +45,7 @@ To assess campaign effectiveness, data from multiple sources was consolidated, i
 
 The initial distribution analysis of pre-promotion sales reveals trends across categories, as shown in the chart below:
 
-![Distribution Analysis](images/distribution_pre_promotion.png)
+![Distribution Analysis](images/category_distribution_analysis.png)
 
 **Key Insights:**
 - Sales distributions are right-skewed across categories.
@@ -64,7 +64,7 @@ Our findings reveal substantial variation in campaign performance across locatio
 - In **Bengaluru**, overall revenue increased by **81.3%** during the campaigns, with Combo1 leading in growth at **141.7%**.
 - Four out of five product categories showed revenue growth, with **Personal Care** being the only category to decline (-32.4%).
 
-![Revenue Analysis Bengaluru](./images/revenue_analysis_bengaluru.png)
+![Revenue Analysis Bengaluru](images/bengaluru_revenue_analysis.png)
 
 This chart shows:
 - Strong performance in combo deals.
@@ -87,7 +87,7 @@ This chart shows:
 | Grocery & Staples    | 13.0%             |
 | Personal Care        | -32.4%            |
 
-![Category Revenue Impact](./images/revenue_impact.png)
+![Category Revenue Impact](images/category_distribution_analysis.png)
 
 This visualization highlights revenue trends by category, showing:
 
@@ -101,7 +101,7 @@ This visualization highlights revenue trends by category, showing:
 
 #### City-wise Performance Analysis
 
-![City Performance Analysis](./images/city_performance.png)
+![City Performance Analysis](images/city_promotional_effectiveness.png)
 
 **Key Findings:**
 - **Madurai** experienced the highest revenue growth, with a **121.3%** increase in ISU%.
@@ -114,7 +114,7 @@ This visualization highlights revenue trends by category, showing:
 
 #### Geographic Distribution
 
-![Store Distribution](./images/store_distribution.png)
+![Store Distribution](images/store_distribution.png)
 
 **Distribution Highlights:**
 - **Bengaluru** has the largest store count with 10 locations (20% of total).
@@ -127,7 +127,7 @@ This visualization highlights revenue trends by category, showing:
 
 #### Price-Volume Relationships
 
-![Price Correlation Analysis](./images/price_correlation.png)
+![Price Correlation Analysis](images/price_quantity_correlation.png)
 
 **Insights:**
 - The **price-volume correlation** is weak (0.27), suggesting that price changes had limited impact on volume.
@@ -180,5 +180,4 @@ Based on the analysis, the following strategies are recommended:
    - Sales data follows a normal distribution.
    - Each store’s performance is independent of others.
    - Customer behavior patterns were consistent over time.
-
 
