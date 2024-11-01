@@ -28,7 +28,7 @@ The analysis utilizes multiple data sources tracking campaign performance across
 
 The pre-promotion sales distribution analysis reveals interesting patterns across categories:
 
-![Distribution Analysis](images/distribution_pre_promotion.png)
+![Distribution Analysis](./images/distribution_pre_promotion.png)
 
 *Key Distribution Insights:*
 - All categories show right-skewed distributions
@@ -42,7 +42,7 @@ The pre-promotion sales distribution analysis reveals interesting patterns acros
 
 The analysis reveals significant variations in campaign performance across categories and locations. In Bengaluru, the study shows an overall revenue increase of 81.3%, with Combo1 leading at 141.7% growth. Four out of five categories showed positive revenue growth, with only Personal Care facing challenges (-32.4%).
 
-![Revenue Analysis Bengaluru](images/revenue_analysis_bengaluru.png)
+![Revenue Analysis Bengaluru](./images/revenue_analysis_bengaluru.png)
 
 The visualization above demonstrates:
 - Strong performance in combo offerings
@@ -59,13 +59,13 @@ The visualization above demonstrates:
   - Grocery & Staples: 13.0% growth
   - Personal Care: -32.4% decline
 
-![Category Revenue Impact](images/revenue_impact.png)
+![Category Revenue Impact](./images/revenue_impact.png)
 
 ### Promotional Effectiveness:
 
 * **City-wise Performance Analysis**
   
-![City Performance Analysis](images/city_performance.png)
+![City Performance Analysis](./images/city_performance.png)
 
 Key findings:
 - Madurai leads with 121.3% ISU%
@@ -76,7 +76,7 @@ Key findings:
 
 * **Geographic Distribution**
 
-![Store Distribution](images/store_distribution.png)
+![Store Distribution](./images/store_distribution.png)
 
 Distribution highlights:
 - Bengaluru: 10 stores (20%)
@@ -88,7 +88,7 @@ Distribution highlights:
 
 * **Price-Volume Relationships**
 
-![Price Correlation Analysis](images/price_correlation.png)
+![Price Correlation Analysis](./images/price_correlation.png)
 
 Key insights:
 - Weak price-volume correlation (0.27)
